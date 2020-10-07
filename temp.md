@@ -21,8 +21,12 @@
 [![python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://www.python.org)
 
 ## .frameworks
-![nuxt](https://img.shields.io/badge/nuxt.js-35495e?style=for-the-badge&logo=nuxt.js)
+![vue](https://img.shields.io/badge/vue-166c8c?style=for-the-badge&logo=vue.js)
+![nuxt](https://img.shields.io/badge/nuxt-35495e?style=for-the-badge&logo=nuxt.js)
+![react](https://img.shields.io/badge/react-131313?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux)
+![ionic](https://img.shields.io/badge/ionic-eeeeee?style=for-the-badge&logo=ionic)
+
 
 ## .ide's
 [![intellij](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea)

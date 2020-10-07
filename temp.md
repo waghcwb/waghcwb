@@ -8,10 +8,7 @@
 🌍 São Paulo / Curitiba / Sometimes, Narnia;
 
 ## .work
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![sap cx](https://img.shields.io/badge/hybris-474747?style=for-the-badge&logo=sap)
-[![sap hybris](https://img.shields.io/badge/hybris-474747?style=for-the-badge&logo=sap)](https://www.sap.com/products/crm.html) 
+[![sap cx](https://img.shields.io/badge/hybris-474747?style=for-the-badge&logo=sap)](https://www.sap.com/products/crm.html) 
 [![salesforce](https://img.shields.io/badge/salesforce-474747?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/form/demo/salesforce-products) 
 
 ## .frontend
@@ -22,9 +19,14 @@
 ## .languages and technologies
 
 ## .versioning
+[![git](https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git)](https://git-scm.com)
+[![svn](https://img.shields.io/badge/subversion-474747?style=for-the-badge&logo=subversion)](https://subversion.apache.org) 
 
 
 ## .learning
+[![flutter](https://img.shields.io/badge/flutter-39cefd?style=for-the-badge&logo=flutter)](https://flutter.dev)
+[![react native](https://img.shields.io/badge/react%20native-474747?style=for-the-badge&logo=react)](https://reactnative.dev)
+
 
 **Languages:**
 

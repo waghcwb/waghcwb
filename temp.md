@@ -15,10 +15,16 @@
 ![html5](https://img.shields.io/badge/html5-EBEBEB?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3)
 ![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
+![scss](https://img.shields.io/badge/sass-fafafa?style=for-the-badge&logo=sass)
+![jekyll](https://img.shields.io/badge/jekyll-c40000?style=for-the-badge&logo=jekyll)
 
 ## .backend
 [![nodejs](https://img.shields.io/badge/node.js-expert-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://www.python.org)
+![bash](https://img.shields.io/badge/bash-3E474A?style=for-the-badge&logo=gnu-bash)
+
+## .devops
+
 
 ## .frameworks
 ![vue](https://img.shields.io/badge/vue-166c8c?style=for-the-badge&logo=vue.js)

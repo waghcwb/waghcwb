@@ -12,10 +12,17 @@
 [![salesforce](https://img.shields.io/badge/salesforce-474747?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/form/demo/salesforce-products)
 
 ## .frontend
+![html5](https://img.shields.io/badge/html5-EBEBEB?style=for-the-badge&logo=html5)
+![css3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3)
+![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
 
 ## .backend
 [![nodejs](https://img.shields.io/badge/node.js-expert-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://www.python.org)
+
+## .frameworks
+![nuxt](https://img.shields.io/badge/nuxt.js-35495e?style=for-the-badge&logo=nuxt.js)
+![redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux)
 
 ## .ide's
 [![intellij](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea)

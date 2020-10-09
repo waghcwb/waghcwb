@@ -65,3 +65,4 @@
 ## .learning
 [![flutter](https://img.shields.io/badge/flutter-39cefd?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![react native](https://img.shields.io/badge/react%20native-474747?style=for-the-badge&logo=react)](https://reactnative.dev)
+![golang](https://img.shields.io/badge/golang-343434?style=for-the-badge&logo=go)

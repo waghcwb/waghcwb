@@ -34,6 +34,7 @@
 ## .database
 ![mongodb](https://img.shields.io/badge/mongodb-3F3E42?style=for-the-badge&logo=mongodb)
 ![mysql](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&labelColor=fafafa)
+![sqlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite)
 
 
 ## .devops

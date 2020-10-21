@@ -26,7 +26,7 @@
 
 
 ## .backend
-[![nodejs](https://img.shields.io/badge/node.js-expert-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
+[![nodejs](https://img.shields.io/badge/node.js-474747?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://www.python.org)
 ![bash](https://img.shields.io/badge/bash-3E474A?style=for-the-badge&logo=gnu-bash)
 

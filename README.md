@@ -10,7 +10,7 @@
 
 
 ## .work
-[![sap cx](https://img.shields.io/badge/sap-cx-474747?style=for-the-badge&logo=sap)](https://www.sap.com/products/crm.html)
+[![sap cx](https://img.shields.io/badge/sap cx-474747?style=for-the-badge&logo=sap)](https://www.sap.com/products/crm.html)
 [![salesforce](https://img.shields.io/badge/salesforce-474747?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/form/demo/salesforce-products)
 
 

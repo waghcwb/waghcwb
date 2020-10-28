@@ -54,7 +54,7 @@
 
 
 ## .ide's
-[![intellij](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij)](https://www.jetbrains.com/idea)
+[![intellij](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea)
 [![vscode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com)
 
 

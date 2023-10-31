@@ -4,9 +4,7 @@
 
 
 ## .about
-💻 Accenture
-
-🌍 São Paulo / Curitiba / Sometimes, Narnia;
+🌍 São Paulo / Curitiba;
 
 
 ## .work
